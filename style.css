@@ -1,0 +1,55 @@
+h1 {
+    color: #3FA8F4;
+}
+
+h2 {
+    color: #3FA8F4;
+}
+
+#quote {
+    background-color: #D8D8D8;
+}
+
+#quote h1 {
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.hero {
+    background-image: url(img/fightfuel_bg.png);
+    height: 88vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#beskrivelse button {
+    border: 2px solid #000000;
+    background-color: #D8D8D8;
+    color: #000000;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+#beskrivelse button:hover {
+    background-color: #FFFFFF;
+    transform: scale(1.2);
+}
+
+#original_flavor {
+    background-color: #D8D8D8;
+    background-image: url(img/bg.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#udvalg button {
+    transition: 0.3s ease;
+}
+
+#udvalg button:hover {
+    transform: scale(1.2);
+}
+
+hr {
+    border: 2px solid #D8D8D8;
+}
